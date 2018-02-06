@@ -1,0 +1,67 @@
+body{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvM7c-laGbOZj-9hJbUb96I9tbZQQHOXwOTjV7Pp5vVgdzhcf)
+}
+
+#navbar{
+    margin-bottom: 10px;
+}
+
+name{
+    font-size: 24px;
+    background: #4aaaa5;
+    color: white;
+    padding: 10px;
+}
+
+#navlinks{
+    font-size: 16px;
+}
+
+.background{
+    padding: 10px;
+    background-color:#eee;
+    margin-top: -10px;   
+    margin-bottom: 10px;
+}
+
+.bar{
+    margin-top: 5px;
+    height: 5px;
+    background-color: blue;
+}
+footer{
+    background-color: grey;
+    text-align: center;
+    padding: 10px;
+}
+
+#imgoverlay{
+    padding: 10px 0px;
+}
+
+#portlinks{
+    color: white;
+}
+
+#cardtext{
+background: #4aaaa5;
+color:white;
+text-align: center;
+margin-top: 100px;
+}
+
+#portfolio{
+    background-color: #eee;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.row{
+    margin-top: 10px;
+}
+
+#contact{
+    background-color: #eee;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
