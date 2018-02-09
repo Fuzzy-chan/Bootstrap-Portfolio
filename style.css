@@ -65,3 +65,8 @@ margin-top: 100px;
     padding-bottom: 20px;
     padding-top: 10px;
 }
+
+#photo,
+#para{
+    float: left;
+}
