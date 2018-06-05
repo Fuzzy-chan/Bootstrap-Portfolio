@@ -70,3 +70,9 @@ margin-top: 100px;
 #para{
     float: left;
 }
+
+.card-img,
+.bg-dark{
+    height: 150px;
+    width: 150px;
+}
