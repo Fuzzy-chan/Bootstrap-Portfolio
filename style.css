@@ -6,6 +6,12 @@ body{
     margin-bottom: 10px;
 }
 
+#photo{
+    max-width: 200px;
+    max-height: 300px;
+}
+
+
 name{
     font-size: 24px;
     background: #4aaaa5;
@@ -19,7 +25,7 @@ name{
 
 .background{
     padding: 10px;
-    background-color:#eee;
+    background-color:white;
     margin-top: -10px;   
     margin-bottom: 10px;
 }
@@ -66,10 +72,7 @@ margin-top: 100px;
     padding-top: 10px;
 }
 
-#photo,
-#para{
-    float: left;
-}
+
 
 .card-img,
 .bg-dark{
