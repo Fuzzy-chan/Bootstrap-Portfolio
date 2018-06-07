@@ -1,5 +1,7 @@
 # Bootstrap-Portfolio
 
-**About**
+This is a basic portfolio page to give a brief description of myself and to show off a few of my projects.
 
-This app is a basic portfolio using bootstrap for CSS. It contains basic information as well as contact information and links to several of my projects.
+I used bootstrap for the layout to create a mobile responsive page.
+
+https://fuzzy-chan.github.io/Bootstrap-Portfolio/
